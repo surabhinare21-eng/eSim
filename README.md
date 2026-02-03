@@ -6,7 +6,7 @@ Surabhi Nare
 Computer Science Engineering  
 GitHub: surabhinare21-eng
 
-📌 Overview
+ Overview
 This repository documents the issues encountered while installing eSim 2.5 on Ubuntu 25.04 and the fixes applied to improve installer stability and compatibility.  
 The task was performed as part of the **eSim Semester Long Internship Screening Task (Task 4)**.
 
